@@ -1,7 +1,8 @@
-baseURL = "www.example.com"
+baseURL = ""
 languageCode = "en-us"
 title = "Linda Nguyen Website"
 theme = "hugo-whisper-theme"
+publishDir: "../lindanguyen9.github.io"
 
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
