@@ -1,0 +1,68 @@
+baseURL = "www.example.com"
+languageCode = "en-us"
+title = "Linda Nguyen Website"
+theme = "hugo-whisper-theme"
+
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+
+# Controls how many words are printed in the content summary on the docs homepage.
+# See https://gohugo.io/content-management/summaries/
+summaryLength = 30
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+    
+[[menu.main]]
+    name = "CV"
+    url = "/vitae/"
+    weight = 3
+
+[[menu.main]]
+    name = "Research Interests"
+    url = "/research/"
+    weight = 4
+    
+[[menu.main]]
+    name = "Public Presentations"
+    url = "/presentations/"
+    weight = 5
+    
+[[menu.main]]
+    name = "Just For Fun"
+    url = "/forfun/"
+    weight = 6
+
+[params]
+  google_analytics_id=""
+  homepage_button_link = '/about'
+  homepage_button_text = 'About Me'
+  homepage_intro = 'Hi! My name is Linda. Welcome to my website.'
+  homepage_image = '/images/Photoshoot-0002.jpg'
+  mainSections = ["about","vitae","research","presentations","forfun"]
+
+  ## You can enable to add anchor links to header elements
+  # enable_anchor_link = true
+
+  [params.homepage_meta_tags]
+    meta_description = "Website."
+    meta_og_title = "Linda Nguyen Website"
+    meta_og_type = "website"
+    meta_og_url = "https://hugo-whisper.netlify.com"
+    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-whisper-theme/master/images/tn.png"
+    meta_og_description = "Website."
+    meta_twitter_card = "summary"
+    meta_twitter_site = "@linda_nguyennn"
+    meta_twitter_creator = "@linda_nguyennn"
+
+  [params.logo]
+      mobile = "/images/logo-mobile.svg"
+      standard  = "/images/logo.svg"
