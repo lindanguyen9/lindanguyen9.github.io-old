@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome on Linda Nguyen Website</title>
+    <link>/www.example.com/docs/</link>
+    <description>Recent content in Welcome on Linda Nguyen Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
+    
+	<atom:link href="/www.example.com/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Install Hugo</title>
+      <link>/www.example.com/docs/install-hugo/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>/www.example.com/docs/install-hugo/</guid>
+      <description>To use this theme you will need to have Hugo installed. If you don&amp;rsquo;t already have Hugo installed please follow the official installation guide
+Check Hugo Version This theme uses Hugo Pipes to compile SCSS and minify assets.</description>
+    </item>
+    
+    <item>
+      <title>Install Theme</title>
+      <link>/www.example.com/docs/install-theme/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>/www.example.com/docs/install-theme/</guid>
+      <description>Create a new Hugo site hugo new site mynewsite This will create a fresh Hugo site in the folder mynewsite.
+Install theme Copy or git clone this theme into the sites themes folder mynewsite/themes</description>
+    </item>
+    
+    <item>
+      <title>Configuration</title>
+      <link>/www.example.com/docs/configure/</link>
+      <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
+      
+      <guid>/www.example.com/docs/configure/</guid>
+      <description>Syntax highlighting and menus can be configured via &lt;code&gt;config.toml&lt;/code&gt;.</description>
+    </item>
+    
+    <item>
+      <title>Specimen</title>
+      <link>/www.example.com/docs/specimen/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>/www.example.com/docs/specimen/</guid>
+      <description>Markdown Test Page  Headings Paragraphs Blockquotes Lists Horizontal rule Table Code Inline elements  Headings Heading one Sint sit cillum pariatur eiusmod nulla pariatur ipsum. Sit laborum anim qui mollit tempor pariatur nisi minim dolor.</description>
+    </item>
+    
+    <item>
+      <title>Hugo Whisper</title>
+      <link>/www.example.com/docs/example/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>/www.example.com/docs/example/</guid>
+      <description>&lt;p&gt;Whisper is a minimal documentation theme built for Hugo. The design &amp;amp; functionality is intentionally minimal.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/www.example.com/docs/about/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>/www.example.com/docs/about/</guid>
+      <description>I’m currently a doctoral student at UT Dallas studying Cognition and Neuroscience. When I’m not in school, you can find me at a local Dallas yoga studio taking class (or teaching it!</description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>/www.example.com/docs/vitae/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>/www.example.com/docs/vitae/</guid>
+      <description>EDUCATIONThe University of Texas at Dallas, Richardson, TX
+Ph.D., Cognition and Neuroscience, Aug. 2016 - present
+M.S., Applied Cognition and Neuroscience, Aug. 2014- May 2016
+Baylor University, Waco, TX</description>
+    </item>
+    
+    <item>
+      <title>Just For Fun</title>
+      <link>/www.example.com/docs/forfun/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>/www.example.com/docs/forfun/</guid>
+      <description>Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal.</description>
+    </item>
+    
+    <item>
+      <title>Public Presentations</title>
+      <link>/www.example.com/docs/presentations/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>/www.example.com/docs/presentations/</guid>
+      <description>Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal.</description>
+    </item>
+    
+    <item>
+      <title>Research Interests</title>
+      <link>/www.example.com/docs/research/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>/www.example.com/docs/research/</guid>
+      <description>My research interests lie within the realm of cognitive neuroscience, specifically social neuroscience. My previous projects have included a DARPA seedling grant looking at cross cultural mechanisms of deception detection.</description>
+    </item>
+    
+  </channel>
+</rss>

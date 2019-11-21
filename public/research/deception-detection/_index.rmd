@@ -1,0 +1,8 @@
+---
+date: "2018-11-28T15:14:39+10:00"
+title: Research Interests
+---
+
+My research interests lie within the realm of cognitive neuroscience, specifically social neuroscience. My previous projects have included a DARPA seedling grant looking at cross cultural mechanisms of deception detection. In addition, I'm currently continuing to learn about the neural mechanisms of social interactions. I've used behavioral and neuroimaging methodologies and I hope to include other methodologies such as EEG, eye-tracking, and physiological measures in my research.
+
+In addition, I'm also interested in exploring human factors involved in cyber deception. I'm very interested in understanding the psychology and neuroscience behind cyber security and how humans influence all sides of this.

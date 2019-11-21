@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Just For Fun on Linda Nguyen Website</title>
+    <link>/www.example.com/forfun/</link>
+    <description>Recent content in Just For Fun on Linda Nguyen Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
+    
+	<atom:link href="/www.example.com/forfun/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Design</title>
+      <link>/www.example.com/forfun/design/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>/www.example.com/forfun/design/</guid>
+      <description>Design Examples Go Here</description>
+    </item>
+    
+    <item>
+      <title>Photography</title>
+      <link>/www.example.com/forfun/photography/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>/www.example.com/forfun/photography/</guid>
+      <description>Photography examples go here</description>
+    </item>
+    
+    <item>
+      <title>Yoga and Fitness</title>
+      <link>/www.example.com/forfun/yoga/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>/www.example.com/forfun/yoga/</guid>
+      <description>Yoga things go here</description>
+    </item>
+    
+  </channel>
+</rss>
