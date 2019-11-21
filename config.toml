@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://lindanguyen9.github.io/"
 languageCode = "en-us"
 title = "Linda Nguyen Website"
 theme = "hugo-whisper-theme"
